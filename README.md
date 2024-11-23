@@ -5,7 +5,7 @@ This project aims to develop a comprehensive URL shortening service similar to B
 
 
 
-## Source Code Not Uploaded Due to the Copy & Pasting ⚠️
+
 ## Objectives
 
 ### URL Shortening:
